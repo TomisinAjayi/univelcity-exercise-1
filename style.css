@@ -1,0 +1,21 @@
+ul.nav.navbar-nav.navbar-right {
+  margin-top: 15px;
+}
+nav.navbar.navbar-default.navbar-static.top {
+  margin-bottom: 0px;
+}
+.container.head {
+  text-align: center;
+}
+.col-md-4.image{
+    padding: 0px;
+}
+@media (min-device-width: 769px) and (max-device-width: 1200px){
+  .col-md-4 {
+  margin-bottom: 10px;
+  }
+}
+@media (max-device-width: 768px) {
+  .col-md-4 {
+  margin-bottom: 16px;
+  }
